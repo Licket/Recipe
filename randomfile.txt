@@ -1,8 +1,6 @@
 hi this is the content of the file
 there is nothing more to see here
--e
-cat -e
-cat >e
-<
->
+cat 
+
+
 git add randomfile.txt
