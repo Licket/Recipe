@@ -25,6 +25,6 @@ All in all this document is supposed to let you know about the project, and for 
 And what might this function do ? Let's see..
 
 This is supposed to be a Badge with a link to a website:
-[![please replace with alt text](https://img.shields.io/badge/anytext-youlike-blue)](https://example.org)
+[![ChatGPT](https://img.shields.io/badge/I-like-Chatgpt-redblue)](https://chat.openai.com/c)
 
 
